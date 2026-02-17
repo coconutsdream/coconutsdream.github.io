@@ -5,9 +5,34 @@ title: Hello
 
 ### Hi there. Welcome to my photoblog.
 
-I love to travel, take photos, and write about random things.
+I'm *Ann*. I love to travel, take photos, and write about random things.
 
-I am also a lover of cats and dogs. This is [7](assets/images/home/7.jpg), and this is [11](assets/images/home/11.jpg). Back home I also have a courageous tabby and a super extroverted but insecure 1 year-old mountain [dog](assets/images/home/opa.jpg).
+<details>
+  <summary>This is <i>Seven</i>. He is fiercely loyal, loving, and protective, but also naughty, throws tantrums, and eats just about anything and everything.</summary>
+  <br>
+    <img src="assets/images/home/seven-1.jpg" width="300" />
+    <img src="assets/images/home/seven-2.jpg" width="300" />
+    <img src="assets/images/home/seven-4.jpg" width="300" />
+    <img src="assets/images/home/seven-5.jpg" width="300" />
+</details>
+
+<details>
+  <summary>This is <i>Eleven</i>. He is the little brother of Seven. He is an independent, free-spirited soul who is warm, sensitive and lives by habits.</summary>
+  <br>
+    <img src="assets/images/home/eleven-1.jpg" width="300" />
+    <img src="assets/images/home/eleven-4.jpg" width="300" />
+    <img src="assets/images/home/eleven-3.jpg" width="300" />
+    <img src="assets/images/home/eleven-2.jpg" width="300" />
+</details>
+
+<details>
+  <summary>Eleven worships and loves his big brother Seven so much. However, Seven acts tough and does not reciprocate his love for Eleven. Together they are a loving duo and professional at being cute. </summary>
+  <br>
+    <img src="assets/images/home/711.jpg" width="300" />
+    <img src="assets/images/home/711-2.jpg" width="300" />
+</details>
+
+Back home, my parents also own a mountain dog called [Opa](assets/images/home/opa.jpg). She is about a year old, very energetic, attention-seeking but also insecure at times. And in lovig memory, this is [Oma](assets/images/home/oma.jpg) who passed in February 2025 at the age of 13 due to cancer.
 
 I grew up in a small village filled with rice paddy fields in Taiwan, one of the most beautiful places on earth in my opinion. I have been living in Europe for more than 5 years now, and I do really miss the lush and massive mountain backdrops. I also miss being surrounded by the deep blueness of the Pacific, the heavy downpours ([sounds like this](https://www.youtube.com/watch?v=zkFcANp-eLo&ab_channel=INDOVILLAGE)) and the [sounds of cicada](https://www.youtube.com/watch?v=xj7ylgj2JlQ&ab_channel=CatTrumpet) that brings back fond memories.
 
