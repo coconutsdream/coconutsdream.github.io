@@ -26,7 +26,7 @@ I'm *Ann*. I love to travel, take photos, and write about random things.
 </details>
 
 <details>
-  <summary>Eleven worships and loves his big brother Seven so much. However, Seven acts tough and does not reciprocate his love for Eleven. Together they are a loving duo and professional at being cute. </summary>
+  <summary>Eleven loves his big brother Seven so much. But Seven acts tough and does not reciprocate Eleven's love for him. Together they are a loving duo and professional at being cute. </summary>
   <br>
     <img src="assets/images/home/711.jpg" width="300" />
     <img src="assets/images/home/711-2.jpg" width="300" />
