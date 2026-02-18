@@ -6,7 +6,7 @@ tags: [photography]
 header_image: /assets/images/blog/black-white/bw6.JPG
 ---
 
-I really like [Greg Williams Photography](https://gregwilliams.com/). His work is phenomenal. He is well known for capturing [Hollywood celebrities in black and white](https://www.instagram.com/gregwilliamsphotography/) using his Leica Q3.
+I really like [Greg Williams Photography](https://gregwilliams.com/). His work is phenomenal. He is well known for capturing [Hollywood celebrities in black and white](https://www.instagram.com/gregwilliamsphotography/) using the Leica Q3.
 
 I think photos captured in black and white are just way less distracting therefore makes people focus more on the content. So recently I've also been trying out this balck and white simulation. I love the clean, modern look from this recipe. Here are some sample photos. All photos are straight out of the camera (SOOC) without any editing.
 
