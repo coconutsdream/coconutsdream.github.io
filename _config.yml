@@ -1,10 +1,10 @@
 ###########
 # site.title
 
-title: coconutsdream
+title: thephotoblog
 description:
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://coconutsdream.github.io" # the base hostname & protocol for your site
+url: "https://thephotoblog.github.io" # the base hostname & protocol for your site
 # host: 0.0.0.0
 #########################
 # more settings
