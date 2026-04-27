@@ -7,9 +7,12 @@ permalink: /now/
 ## Changelog, life edition
 
 <details>
-  <summary> here is the idea of a now page, I really dig this! </summary>
+  <summary> here is the idea of a now page, I really dig this. </summary>
   inspired by <a href="https://nownownow.com/about">Derek Sivers</a>.
 </details>
+
+#### March 2026
+- back to Taiwan for a family trip + interviews
 
 #### February 2026
 - submitted my postdoc fellowship application
