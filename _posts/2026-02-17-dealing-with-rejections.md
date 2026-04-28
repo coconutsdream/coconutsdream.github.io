@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dealing with rejections 🌊"
+title: "Dealing with rejections"
 date: 2026-02-17
 tags: [general, academia]
 ---

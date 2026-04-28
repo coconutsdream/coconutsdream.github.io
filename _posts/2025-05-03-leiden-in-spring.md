@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leiden in spring 🌸"
+title: "Leiden in spring"
 date: 2025-05-03
 tags: [ordinary, photography]
 header_image: /assets/images/blog/leiden-in-spring/spring-36.jpeg
