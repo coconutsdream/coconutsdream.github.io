@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Leiden in spring"
+title: "leiden in spring"
 date: 2025-05-03
 tags: [ordinary, photography]
 header_image: /assets/images/blog/leiden-in-spring/spring-36.jpeg
 ---
 
-Leiden in spring can be quite beautiful. The warm and gentle sun rays inject breaths of life to deadness of cold from the winter. April showers bring May flowers, and everything is filled with hope again 🌱☀️ No doubt, spring is my favorite season.
+leiden in spring can be quite beautiful. the warm and gentle sun rays inject breaths of life to deadness of cold from the winter. april showers bring may flowers, and everything is filled with hope again 🌱☀️ no doubt, spring is my favorite season.
 
-I also made videos: here is [one](https://www.youtube.com/watch?v=evmVcoM7X84), and here is [another](https://www.youtube.com/watch?v=o-on65yp46M).
+i also made videos: here is [one](https://www.youtube.com/watch?v=evmvcom7x84), and here is [another](https://www.youtube.com/watch?v=o-on65yp46m).
 
 {% include image-gallery.html folder="assets/images/blog/leiden-in-spring" %}

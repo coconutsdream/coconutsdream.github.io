@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anger like tsunami waves 🌊"
+title: "Tsunami waves of anger 🌊"
 date: 2025-10-15
 tags: [photography]
 header_image: /assets/images/blog/fall-walk-2/photowalk-14.jpeg

@@ -1,11 +1,13 @@
 <style>
 /* === Gallery Grid === */
+
 .image-gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
-  gap: 10px; /* spacing between images */
-  margin: 20px 0;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  align-items: start;
 }
+
 .image-gallery a {
   display: block;
   text-decoration: none!important;
@@ -18,7 +20,17 @@
   border-radius: 6px; /* optional: rounded corners */
 }
 
+.image-gallery a img {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.image-gallery a:hover img {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
 /* === Lightbox === */
+
 .lightbox {
   display: none;
   position: fixed;
@@ -31,10 +43,9 @@
 }
 
 .lightbox img {
-  margin: auto;
-  display: block;
-  max-width: 90%;
-  max-height: 80vh;
+  max-width: 92%;
+  max-height: 85vh;
+  object-fit: contain;
 }
 
 .lightbox:target {
@@ -75,6 +86,7 @@
   font-size: 1em;
   z-index: 1000;
 }
+
 </style>
 
 <div class="image-gallery">
