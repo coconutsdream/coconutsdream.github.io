@@ -8,7 +8,7 @@ header_image: /assets/images/blog/maastricht/day-one/day-one-7.jpeg
 
 road trip was super fun. the highlight was stopping by germany to get some groceries! how i miss the grocery prices in germany! we decided in our hearts to take a cooler everytime we go near the broader or cross the broder to germany 😂
 
-the first stop was the [the north caves](https://maps.app.goo.gl/zbhp3x9vgb4f3kvsa). the underground cave was super huge and the guided tour was quite interesting. it got slighly cold after an 1hr though.
+the first stop was the [the north caves](https://maps.app.goo.gl/NMMQXNqqyyNyevjFA). the underground cave was super huge and the guided tour was quite interesting. it got slighly cold after an 1hr though.
 
 initially we picked maastricht because of this taco place called [jitomato](https://maps.app.goo.gl/9Nrrqfz3t8t9xtXY6) i really wanted to try. having lived in europe for more than 4 years now, i really miss the street tacos in southern california. this restaurants boasts in its use of authentic mexican ingredients for making the tacos and it's been really hyped up by social media. however, it was not as expected... as i shared in the reviews:
 

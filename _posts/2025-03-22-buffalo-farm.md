@@ -12,7 +12,7 @@ interesting to see buffalo for the first time in my life, also trying the buffal
 
 afterwards we visted the garden center hoping to get some lemon trees. but we got the citrus kumquat tree, cherry tomato and the blueberry trees instead. the citrus kumquat was precious (not sold at regular supermarkets) and delicious! let's see if they make it to next year for harvest...
 
-the photos were taken using mostly the [kodachrome64](https://fujixweekly.com/2020/05/27/my-fujifilm-x100v-kodachrome-64-film-simulation-recipe/) recipe, sometimes the [kodachrome+](https://www.youtube.com/watch?v=5wbwcb1eiku). for a while i was looking for a simulation that would be great for overcast, cloudy days. i found the kodachrome64 simulation quite suitable for this. i like how it gives off a low-key vibrant, with a bit of a film like look.
+the photos were taken using mostly the [kodachrome64](https://fujixweekly.com/2020/05/27/my-fujifilm-x100v-kodachrome-64-film-simulation-recipe/) recipe, sometimes the [kodachrome+](https://www.youtube.com/watch?v=5wbWcb1eIkU). for a while i was looking for a simulation that would be great for overcast, cloudy days. i found the kodachrome64 simulation quite suitable for this. i like how it gives off a low-key vibrant, with a bit of a film like look.
 
 **kodachrome64**\
 simulation: classic chrome
