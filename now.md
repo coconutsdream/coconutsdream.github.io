@@ -18,17 +18,6 @@ permalink: /now/
 - submitted my postdoc fellowship application
 - started seriously learning Bayesian statistics for like the 100th time
 - anxiously awaiting for further news about the internal postdoctoral staff position (most likely positive, but everything is unofficial until I see and physically sign the contract), meanwhile watching all the YT videos and beyond excited for the move to Japan!
-- this would be my future office view, amazing isn't it?! 🥹
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/u4APU0PFCzU" 
-    title="OIST Lab5 - Okinawa Institute of Science and Technology" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen>
-  </iframe>
-</div>
 
 #### January 2026
 - accidentally splashed water on my macbook pro, it was destroyed instantly...
