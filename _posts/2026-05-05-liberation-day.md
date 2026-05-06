@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "liberation day"
+title: "liberation day celebration"
 date: 2026-05-05
 tags: [general]
 ---

@@ -7,7 +7,7 @@ title: Hello
 
 i'm *ann*. i love to travel, take photos, and write about random things.
 
-this is <i>seven</i>. he is fiercely loyal, loving, and protective, but also naughty, throws tantrums, and eats just about anything and everything.
+this is <i>seven</i>. he is loyal, loving, and protective, but also naughty, throws tantrums, and eats just about anything and everything.
 
 <div class="image-gallery">
   <div class="gallery-item"><img src="assets/images/home/seven-1.jpg" /></div>
@@ -15,7 +15,6 @@ this is <i>seven</i>. he is fiercely loyal, loving, and protective, but also nau
   <div class="gallery-item"><img src="assets/images/home/seven-4.jpg" /></div>
   <div class="gallery-item"><img src="assets/images/home/seven-5.jpg" /></div>
 </div>
-
 
 
 this is <i>eleven</i>. he is the little brother of seven. he is an independent, free-spirited soul who is warm, sensitive and lives by habits.
