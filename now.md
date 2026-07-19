@@ -4,13 +4,10 @@ title: Now
 permalink: /now/
 ---
 
-## changelog, life edition
+## Changelog, life edition
 
 <details>
-  <summary> here is the idea of a now page, i really dig this. </summary>
-  inspired by <a href="https://nownownow.com/about">derek sivers</a>.
+  <summary> here is the idea of a now page, I really dig this. </summary>
+  Inspired by <a href="https://nownownow.com/about">Derek Sivers</a>.
 </details>
 
-
-#### may 2026
-- getting ready to move to okinawa ☀️

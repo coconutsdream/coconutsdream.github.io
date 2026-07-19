@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "liberation day celebration"
+title: "Liberation Day celebration"
 date: 2026-05-05
 tags: [general]
 ---
 
-liberation day celebration (5th may), captured on the fujifilm xt-50.
+Liberation Day celebration (5th May), captured on the Fujifilm XT-50.
 
 {% include image-gallery.html folder="assets/images/blog/liberation" %}
