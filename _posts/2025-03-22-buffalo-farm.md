@@ -3,7 +3,7 @@ layout: post
 title: "Buffalo farm"
 date: 2025-03-22
 tags: [photography]
-header_image: /assets/images/blog/farm/buffalo-2.jpg
+header_image: /assets/images/blog/20250322-farm/buffalo-2.jpg
 ---
 
 Highlight of the day was the alpaca 😂
@@ -47,4 +47,4 @@ White Balance: Auto (No Color Shift)\
 ISO: Auto, Up To ISO 6400\
 Exposure Compensation: 0 To +2/3 (Typically)
 
-{% include image-gallery.html folder="assets/images/blog/farm" %}
+{% include image-gallery.html folder="assets/images/blog/20250322-farm" %}

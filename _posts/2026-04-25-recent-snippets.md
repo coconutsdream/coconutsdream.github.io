@@ -14,4 +14,4 @@ I find that the custom film simulation dials are somewhat confusing, as they do 
 But of course, maybe it's just because I'm trying it out for the first time. Overall I do like the XT-50. It is lightweight (438grams), and with the lens it becomes a very nice carry-around camera.
 
 
-{% include image-gallery.html folder="assets/images/blog/tulips" %}
+{% include image-gallery.html folder="assets/images/blog/20260425-tulips" %}

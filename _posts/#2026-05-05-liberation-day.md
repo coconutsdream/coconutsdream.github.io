@@ -7,4 +7,4 @@ tags: [general]
 
 Liberation Day celebration (5th May), captured on the Fujifilm XT-50.
 
-{% include image-gallery.html folder="assets/images/blog/liberation" %}
+{% include image-gallery.html folder="assets/images/blog/20260505-liberation" %}

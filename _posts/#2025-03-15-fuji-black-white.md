@@ -3,14 +3,14 @@ layout: post
 title: "Black n' white"
 date: 2025-03-15
 tags: [photography]
-header_image: /assets/images/blog/black-white/bw6.JPG
+header_image: /assets/images/blog/20250315-black-white/bw6.JPG
 ---
 
 I really like [Greg Williams Photography](https://gregwilliams.com/). His work is phenomenal. He is well known for capturing [Hollywood celebrities in black and white](https://www.instagram.com/gregwilliamsphotography/) using the Leica Q3.
 
 I think photos captured in black and white are just way less distracting therefore makes people focus more on the content. So recently I've also been trying out this balck and white simulation. I love the clean, modern look from this recipe. Here are some sample photos. All photos are straight out of the camera (sooc) without any editing.
 
-{% include image-gallery.html folder="assets/images/blog/black-white" %}
+{% include image-gallery.html folder="assets/images/blog/20250315-black-white" %}
 
 **Black N' White**\
 Simulation: Acros + Ye Filter\

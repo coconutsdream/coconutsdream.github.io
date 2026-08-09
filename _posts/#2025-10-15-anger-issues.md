@@ -3,7 +3,7 @@ layout: post
 title: "Tsunami waves of anger 🌊"
 date: 2025-10-15
 tags: [photography]
-header_image: /assets/images/blog/fall-walk-2/photowalk-14.jpeg
+header_image: /assets/images/blog/20251015-fall-walk-2/photowalk-14.jpeg
 ---
 
 For as long as I can remember, I struggle with anger. I guess growing up I was never really good at dealing with emotions. This doesn’t really mean that I do not feel emotions, on the contrary I feel them too intensely. I remember always needing time to process or digest these emotions I absorb around me, whether negative, positive, from myself or others. I tend to bottle up these emotions. They are stored permenantly in the fiber of my being, and not relased until something in the environment triggers it. Then I become very explosive. 
@@ -18,4 +18,4 @@ You would have no way to tell based on my daily demeanor that I have anger issue
 
 I am finding ways that will help me channel my emtions better. I find that going on photo walks seem to help. Photography temporarily forces my mind to be in an observant state. Taking photos makes me aware of my surrounding, to be present, to think about the composition, light, and the subject. It seems that while I am in the flow, I notice things and I can, for a short moment, forget about the anger boiling within me.
 
-{% include image-gallery.html folder="assets/images/blog/fall-walk-2" %}
+{% include image-gallery.html folder="assets/images/blog/20251015-fall-walk-2" %}

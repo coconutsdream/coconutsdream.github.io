@@ -3,7 +3,7 @@ layout: post
 title: "Korfbal match"
 date: 2025-10-28
 tags: [photography]
-header_image: /assets/images/blog/match/match-22.jpeg
+header_image: /assets/images/blog/20251028-match/match-22.jpeg
 ---
 
 Shot some sports photography in manual with the Tri-X 400 simulation.
@@ -40,4 +40,4 @@ ISO Noise Reduction: -4\
 Clarity: +4\
 EV Compensation: 0
 
-{% include image-gallery.html folder="assets/images/blog/match" %}
+{% include image-gallery.html folder="assets/images/blog/20251028-match" %}
