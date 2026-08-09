@@ -11,4 +11,4 @@ The interview was quite intensive. I was very happy to meet new researchers and 
 
 I have mixed feelings about Taiwan, but no matter how bad things might look on the outward, it is always my home. A visit to Taiwan has been a treat and much needed rest. But for the moment I am happy to be back by H's side + the meows.
 
-{% include image-gallery.html folder="assets/images/blog/20260327-taiwan26" %}
+{% include image-gallery.html folder="assets/images/blog/20260327-taiwan" %}

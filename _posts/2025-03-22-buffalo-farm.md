@@ -3,7 +3,7 @@ layout: post
 title: "Buffalo farm"
 date: 2025-03-22
 tags: [photography]
-header_image: /assets/images/blog/20250322-farm/buffalo-2.jpg
+header_image: /assets/images/blog/20250322-buffalo-farm/buffalo-2.jpg
 ---
 
 Highlight of the day was the alpaca 😂
@@ -12,7 +12,7 @@ Interesting to see buffalo for the first time in my life, also trying the buffal
 
 Afterwards we visted the garden center hoping to get some lemon trees. But we got the citrus kumquat tree, cherry tomato and the blueberry trees instead. The citrus kumquat was precious (not sold at regular supermarkets) and delicious! Let's see if they make it to next year for harvest...
 
-The photos were taken using mostly the [Kodachrome64](https://fujixweekly.com/2020/05/27/my-fujifilm-x100v-kodachrome-64-film-simulation-recipe/) recipe, sometimes the [Kodachrome+](https://www.youtube.com/watch?v=5wbWcb1eIkU). For a while I was looking for a simulation that would be great for overcast, cloudy days. I found the Kodachrome64 simulation quite suitable for this. I like how it gives off a low-key vibrant, with a bit of a film like look.
+The photos were taken using mostly the [Kodachrome64](https://fujixweekly.com/2020/05/27/my-fujifilm-x100v-kodachrome-64-film-simulation-recipe/) setting, sometimes the [Kodachrome+](https://www.youtube.com/watch?v=5wbWcb1eIkU). For a while I was looking for a simulation that would be great for overcast, cloudy days. I found the Kodachrome64 simulation quite suitable for this. I like how it gives off a low-key vibrant, with a bit of a film like look.
 
 **Kodachrome64**\
 Simulation: Classic Chrome
@@ -47,4 +47,4 @@ White Balance: Auto (No Color Shift)\
 ISO: Auto, Up To ISO 6400\
 Exposure Compensation: 0 To +2/3 (Typically)
 
-{% include image-gallery.html folder="assets/images/blog/20250322-farm" %}
+{% include image-gallery.html folder="assets/images/blog/20250322-buffalo-farm" %}
