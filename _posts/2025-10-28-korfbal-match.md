@@ -3,7 +3,7 @@ layout: post
 title: "Korfbal match"
 date: 2025-10-28
 tags: [photography]
-header_image: /assets/images/blog/20251028-korfbal/match-22.jpeg
+header_image: /assets/images/blog/20251028-korfbal/06.jpeg
 ---
 
 Photos of korbal match.
