@@ -3,7 +3,7 @@ layout: post
 title: "Osnabrück"
 date: 2024-09-30
 tags: [ordinary, photography]
-header_image: /assets/images/blog/20240930-osnabruck/osna-4.jpeg
+header_image: /assets/images/blog/20240930-osnabruck/04.jpeg
 ---
 
 Osnabrück is a place I called home for three years. Hard to believe I actually moved to a small city and had to established new connections all over again. The city at its first glance was not too bad to be honest. I remember how friendly the people in the city were when I first moved e.g., strangers helping me with luggage at the train station, taxi driver small talk, a very cozy and furnished accommodation at the university guest house upon arrival, the older lady that offered me a flat and told me my future will be bright and filled with possibilities after my PhD (😅), friendly colleagues, environment, etc. I think back then I approached this relocation with much an optimism and positivity. This probably gave rise to the perception of how nice the environment was. However, over the years many things have changed. Life got hard at times. But somehow I stuck through it. Now with a completed doctorate degree, I look back on Osnabrück with a bit of fondness, and filled with thanks to myself for not giving up.
