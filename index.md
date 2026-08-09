@@ -5,7 +5,7 @@ title: Hello
 
 ### Hi there. Welcome to my photoblog.
 
-I'm *Ann*. I love to travel, take photos, and write about random things.
+I'm *Ann*. I like to take photos, and write about random things.
 
 This is <i>Seven</i>. He is loyal, loving, and protective, but also naughty, throws tantrums, and eats just about anything and everything.
 
