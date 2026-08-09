@@ -3,7 +3,7 @@ layout: post
 title: "Taiwan is always a treat"
 date: 2026-03-27
 tags: [travel]
-header_image: /assets/images/blog/20260327-taiwan/06.jpeg
+header_image: /assets/images/blog/20260327-taiwan/01.jpeg
 ---
 
 It was a super busy trip, mostly because I had two interviews scheduled, one of them being a 2-day interview where I met with at least 10 faculty members and had to give a public lecture. The rest of the trip was family time, plus meeting Minda's friend's from Okinawa. It was very nice to know someone in Okinawa already before officially moving there.

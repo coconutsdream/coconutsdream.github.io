@@ -3,7 +3,7 @@ layout: post
 title: "Buffalo farm"
 date: 2025-03-22
 tags: [photography]
-header_image: /assets/images/blog/20250322-buffalo-farm/02.jpeg
+header_image: /assets/images/blog/20250322-buffalo-farm/03.jpeg
 ---
 
 Highlight of the day was the alpaca 😂

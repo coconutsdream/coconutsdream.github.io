@@ -3,7 +3,7 @@ layout: post
 title: "Recent snippets 📷"
 date: 2026-04-25
 tags: [general]
-header_image: /assets/images/blog/20260425-tulips/06.jpeg
+header_image: /assets/images/blog/20260425-tulips/01.jpeg
 ---
 
 April and May are tulips season in the Netherlands. Happy to have H's friends from Dublin visiting ❤️🌷
