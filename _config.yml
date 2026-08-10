@@ -2,7 +2,7 @@
 # site.title
 
 title: thephotoblog
-description:
+description: photography, life, and everything in between
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://thephotoblog.github.io" # the base hostname & protocol for your site
 # host: 0.0.0.0
